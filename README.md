@@ -161,4 +161,4 @@ This project is developed for educational purposes as part of an internship prog
 
 ---
 
->Built with ❤️ by **Siddhartha Kodipunjula** for Cognifyz Technologies Internship Program
+>Built by **Siddhartha Kodipunjula** for Cognifyz Technologies Internship Program
